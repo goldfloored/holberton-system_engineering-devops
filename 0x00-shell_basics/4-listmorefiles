@@ -1,2 +1,2 @@
 #!/bin/baash
-ls -l -a
+ls -a -l
