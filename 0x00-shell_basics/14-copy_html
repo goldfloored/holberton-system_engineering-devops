@@ -1,0 +1,2 @@
+#!/bin/bin
+cp . .. -u -n *.html
