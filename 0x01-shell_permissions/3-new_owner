@@ -1,2 +1,2 @@
 #!/bin/bash
-userid betyy
+chown betty hello
