@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -R | wc -l $PATH
+ls -c -R | grep "$PATH" | wc -l
+
