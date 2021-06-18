@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #display Holberton school until iterator reaches 10 
 x=0
-until [ $x -eq 10 ]
+until [ $x -gt 9 ]
 do
     echo "Holberton School"
-    x=$((x+1))
+    ((x++))
 done
