@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Display Holberton school 10 times but with a while
+x=0
+until [ $x -eq 10 ]
+do
+    echo "Holberton School"
+    x=$((x+1))
+done
