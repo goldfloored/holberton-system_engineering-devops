@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Display Holberton school 10 times but with a while
+#until iterator reaches 10 
 x=0
 until [ $x -eq 10 ]
 do
